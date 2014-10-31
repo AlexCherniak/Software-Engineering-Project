@@ -1,5 +1,4 @@
-זיהוי ואפיון אוטומטי של תמונות במאמרים בספרות הרפואית
+Automatic Identification and characterization of images in articles in the medical literature
 ============================
 
-לצורך פיתוח מנוע חיפוש לתמונות במאמרים רופאים, יש צורך בהפרדה של התמונות. לעתים קרובות תמונות אינן מופרדות ומוצגות בתמונה שלמה אחת (subfigures). מטרת הפרויקט היא: לאפשר הבחנה בין החלקים השונים בתמונה בתוך מאמר ובאמצעותה לזהות אם היא מכילה תתי תמונות תמונה מורכבת) ולהפריד ביניהן. בין האתגרים יתמודד הפרויקט הם: הורדת ה"רעש" מסביב כמו המקרא של התמונה, אפיון התמונה: האם מדובר בתמונה 
-רפואית או לא. צעדים בסיסיים אלה הם צעד ראשוני להמשך סיווג תמונות בצורה מדויקת יותר
+To develop a search engine for images in medical articles, it is necessary to seperate images. Often images are not separated and presented to us, in one whole page picture (subfigures). The project aims to: allow to distinct between the different parts in the picture in the article ,and use it to detect if it contains sub-images (composite image) and make a separation to them. Another challenge will be: lowering  the "noise" (surroundings of a picture),and  the image characterization: Is this a medical image or not. These basic steps are the first step for further classification of images in a more accurate way.
